@@ -15,7 +15,7 @@ let package = Package(
             targets: ["BleWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/LedgerHQ/hw-transport-ios-ble", branch: "main")
+        .package(url: "https://github.com/tonkeeper/hw-transport-ios-ble", branch: "main")
     ],
     targets: [
         .target(

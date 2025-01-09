@@ -3,10 +3,10 @@
     {
       "identity" : "hw-transport-ios-ble",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tonkeeper/hw-transport-ios-ble",
+      "location" : "https://github.com/jup-ag/hw-transport-ios-ble",
       "state" : {
-        "revision" : "cd0860cc94226da93cc078f45d9d6331f5cf26b5",
-        "version" : "2.0.0"
+        "revision" : "1da533cdb1b014778898baf95ce3e54fad1a8ede",
+        "version" : "1.2.0"
       }
     }
   ],

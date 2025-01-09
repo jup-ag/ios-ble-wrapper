@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tonkeeper/hw-transport-ios-ble",
       "state" : {
-        "branch" : "main",
-        "revision" : "cd0860cc94226da93cc078f45d9d6331f5cf26b5"
+        "revision" : "cd0860cc94226da93cc078f45d9d6331f5cf26b5",
+        "version" : "2.0.0"
       }
     }
   ],
